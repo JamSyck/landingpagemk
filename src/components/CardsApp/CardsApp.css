@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Mortal-Kombat-MK11';
+    src: url(../font/Mortal-Kombat-MK11.otf);
+}
+
+.cards{
+    display: flex;
+    left: 50%;
+    transform: translate(-50%);
+    position: relative;
+    width: 70%;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.cards .title{
+    font-family: 'Mortal-Kombat-MK11';
+}

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Mortal-Kombat-MK11';
+    src: url(../font/Mortal-Kombat-MK11.otf);
+}
+
+.navbar{
+    font-family: 'Mortal-Kombat-MK11';
+}
+.navbar .brand{
+    margin-left: 80px;
+}
+.navbar .link{
+    margin-right: 80px;
+}
+.navlink{
+    color: white;
+    text-decoration: none;
+}
+.navlink:hover{
+    color: red;
+}

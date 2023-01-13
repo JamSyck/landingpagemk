@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Mortal-Kombat-MK11';
+    src: url(../font/Mortal-Kombat-MK11.otf);
+}
+
+.text{
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.text h1{
+    font-family: 'Mortal-Kombat-MK11';
+}

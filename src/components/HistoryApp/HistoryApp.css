@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Mortal-Kombat-MK11';
+    src: url(../font//Mortal-Kombat-MK11.otf);
+}
+.htext{
+    top: 0;
+    text-align: center;
+    background-image:linear-gradient(rgba(0,0,0,0.85),rgba(0,0,0,0.85)), url(../images//bgh.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 1rem;
+}
+.htext img{
+    margin: 1rem;
+}
+.htext h1{
+    font-family: 'Mortal-Kombat-MK11';
+    color: white;
+}
+.htext p{
+    text-align: justify;
+    margin: 0 5rem;
+    color: white;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Mortal-Kombat-MK11';
+    src: url(../font/Mortal-Kombat-MK11.otf);
+}
+
+.footer{
+    width: 100%;
+    height: 35px;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: 'Mortal-Kombat-MK11';
+    padding-top: 0.3%;
+    bottom: 0;
+}
